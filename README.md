@@ -99,8 +99,7 @@ Visit `http://localhost:3000` in your browser to view the app.
 
 <img width="1920" height="1020" alt="Screenshot 2025-04-25 024926" src="https://github.com/user-attachments/assets/7ecee933-c29a-4422-a203-aad1390215b6" />
 
-<img width="1913" height="544" alt="Screenshot 2025-04-25 112745" src="https://github.com/user-attachments/assets/ac7780ba-b12b-49b3-9e91-3fd09219a66a" />
-
+<img width="1918" height="920" alt="Screenshot 2025-04-25 112105" src="https://github.com/user-attachments/assets/2e531146-dbbe-4fdc-bb9e-33e7a7816718" />
 
 ---
 
